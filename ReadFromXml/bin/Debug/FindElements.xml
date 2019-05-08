@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Table>
+  <Start_page>
+    <XPath>
+      <Button_Login>
+        //*[@class='list-group']//*[text()='Login']
+      </Button_Login>
+      <Button_Register>
+        //*[@class='list-group']//*[text()='Register']
+      </Button_Register>
+      <Button_My_account>
+        //*[@class='list-group']//*[text()='My Account']
+      </Button_My_account>
+      <Button_Address_book>
+        //*[@class='list-group']//*[text()='Address Book']
+      </Button_Address_book>
+    </XPath>
+  </Start_page>
+
+  <Login_page>
+    <Id>
+      <email>input-email</email>
+      <password>input-password</password>
+    </Id>
+    <XPath>
+      <Button_Login>
+        //input[@value='Login']
+      </Button_Login>
+      <Button_Continue>
+        //*[@class='well']//*[text()='Continue']
+      </Button_Continue>
+      <Button_Forgotten_password>
+        //*[@class='form-group']//*[text()='Forgotten Password']
+      </Button_Forgotten_password>
+    </XPath>  
+  </Login_page>
+
+  <Account_page>
+    <XPath>
+      <Button_My_account>
+        //*[@class='list-group']//*[text()='My Account']
+      </Button_My_account>
+      <Button_Edit_account>
+        //*[@class='list-group']//*[text()='Edit Account']
+      </Button_Edit_account>
+      <Button_Address_book>
+        //*[@class='list-group']//*[text()='Address Book']
+      </Button_Address_book>
+      <Button_Logout>
+        //*[@class='list-group']//*[text()='Logout']
+      </Button_Logout>
+      <Button_Continue_Logout>
+        //*[@class='pull-right']//*[text()='Continue']
+      </Button_Continue_Logout>
+      <Button_Password>
+        //*[@class='list-group']//*[text()='Password']
+      </Button_Password>
+    </XPath>
+  </Account_page>
+
+  <Edit_account_page>
+    <Id>
+      <firstname>input-firstname</firstname>
+      <lastname>input-lastname</lastname>
+      <email>input-email</email>
+      <telephone>input-telephone</telephone>
+      <fax>input-fax</fax>
+    </Id>
+    <XPath>
+      <Button_Back>
+        //*[@class='pull-left']//*[text()='Back']
+      </Button_Back>
+      <Button_Continue>
+        //input[@value='Continue']
+      </Button_Continue>
+    </XPath>
+  </Edit_account_page>
+
+  <Password_edit_page>
+    <Id>
+      <password>input-password</password>
+      <password_confirm>input-confirm</password_confirm>
+    </Id>
+    <XPath>
+      <Button_Back>
+        //*[@class='pull-left']//*[text()='Back']
+      </Button_Back>
+      <Button_Continue>
+        //input[@value='Continue']
+      </Button_Continue>
+    </XPath>
+  </Password_edit_page>
+
+  <Address_book_page>
+    <XPath>
+      <Button_Back>
+        //*[@class='pull-left']//*[text()='Back']
+      </Button_Back>
+      <Button_Edit>
+        //*[@class='text-right']//*[text()='Edit']
+      </Button_Edit>
+      <Button_New_address>
+        //*[@class='pull-right']//*[text()='New Address']
+      </Button_New_address>
+      <Button_Delete_address>
+        //*[@class='text-right']//*[text()='Delete']
+      </Button_Delete_address>
+    </XPath>
+  </Address_book_page>
+  
+  <Address_book_edit_page>
+    <Id>
+      <firstname>input-firstname</firstname>
+      <lastname>input-lastname</lastname>
+      <company>input-company</company>
+      <address1>input-address-1</address1>
+      <address2>input-address-2</address2>
+      <city>input-city</city>
+      <postcode>input-postcode</postcode>
+    </Id>
+  </Address_book_edit_page>
+
+  <Register_page>
+    <Id>
+      <firstname>input-firstname</firstname>
+      <lastname>input-lastname</lastname>
+      <email>input-email</email>
+      <telephone>input-telephone</telephone>
+      <fax>input-fax</fax>
+      <company>input-company</company>
+      <address1>input-address-1</address1>
+      <address2>input-address-2</address2>
+      <city>input-city</city>
+      <postcode>input-postcode</postcode>
+      <country>input-country</country>
+      <region>input-zone</region>
+      <password>input-password</password>
+      <password_confirm>input-confirm</password_confirm>     
+    </Id>
+    <Name>
+      <checkbox_confirm_read_info>agree</checkbox_confirm_read_info>
+    </Name>
+    <XPath>
+      <Ref_Button_Login_page>
+        //*[@class='row']//*[text()='login page']
+      </Ref_Button_Login_page>
+      <Button_Continue>
+        //input[@value='Continue']
+      </Button_Continue>
+    </XPath>
+  </Register_page>
+
+  <Forget_password_page>
+    <XPath>
+      <Button_Back>
+        //*[@class='pull-left']//*[text()='Back']
+      </Button_Back>
+      <Button_Continue>
+        //input[@value='Continue']
+      </Button_Continue>
+    </XPath>
+  </Forget_password_page>
+</Table>

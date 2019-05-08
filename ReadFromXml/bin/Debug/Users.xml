@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Table>
+  <Users>
+    <User1>
+      <firstname>Test1</firstname>
+      <lastname>TestLast</lastname>
+      <email>test1last@rambler.ru</email>
+      <telephone>+38-097-000-99-00</telephone>
+      <fax>+38-097-000-99-00</fax>
+      <company>SoftServe</company>
+      <address1>Liberty ave, 1</address1>
+      <address2>Liberty ave, 3</address2>
+      <city>Chicago</city>
+      <postcode>60007</postcode>
+      <country>United States</country>
+      <region>Illinois</region>
+      <password>qwerty</password>
+    </User1>
+    <User2>
+      <firstname>Test22</firstname>
+      <lastname>TestLast2</lastname>
+      <email>serg9888@rambler.ru</email>
+      <telephone>+38-097-000-99-99</telephone>
+      <fax>+38-097-000-99-99</fax>
+      <company>SoftServe</company>
+      <address1>Liberty ave, 5</address1>
+      <address2>Liberty ave, 7</address2>
+      <city>Alabama</city>
+      <postcode>36016</postcode>
+      <country>United States</country>
+      <region>Alabama</region>
+      <password>qwerty</password>
+    </User2>
+    <User3>
+      <firstname>Test33</firstname>
+      <lastname>TestLast3</lastname>
+      <email>test33@Aol.de</email>
+      <telephone>+49-201-000-00-55</telephone>
+      <fax>+49-201-000-00-55</fax>
+      <company>SoftServe</company>
+      <address1>Ruttenscheiderstrasse, 15</address1>
+      <address2>Ruttenscheiderstrasse, 9</address2>
+      <city>Hessen</city>
+      <postcode>45127</postcode>
+      <country>Germany</country>
+      <region>Hessen</region>
+      <password>qwerty</password>
+    </User3>
+  </Users>
+</Table>

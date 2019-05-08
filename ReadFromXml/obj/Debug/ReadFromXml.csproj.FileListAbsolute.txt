@@ -1,0 +1,30 @@
+E:\VisualStudioProjects\ReadFromXml\ReadFromXml\bin\Debug\ReadFromXml.exe.config
+E:\VisualStudioProjects\ReadFromXml\ReadFromXml\bin\Debug\ReadFromXml.exe
+E:\VisualStudioProjects\ReadFromXml\ReadFromXml\bin\Debug\ReadFromXml.pdb
+E:\VisualStudioProjects\ReadFromXml\ReadFromXml\bin\Debug\WebDriver.dll
+E:\VisualStudioProjects\ReadFromXml\ReadFromXml\bin\Debug\WebDriver.Support.dll
+E:\VisualStudioProjects\ReadFromXml\ReadFromXml\bin\Debug\WebDriver.xml
+E:\VisualStudioProjects\ReadFromXml\ReadFromXml\bin\Debug\WebDriver.Support.xml
+E:\VisualStudioProjects\ReadFromXml\ReadFromXml\obj\Debug\ReadFromXml.exe
+E:\VisualStudioProjects\ReadFromXml\ReadFromXml\obj\Debug\ReadFromXml.pdb
+C:\Users\serg\Desktop\ReadFromXml 2.0\ReadFromXml\bin\Debug\ReadFromXml.exe.config
+C:\Users\serg\Desktop\ReadFromXml 2.0\ReadFromXml\obj\Debug\ReadFromXml.exe
+C:\Users\serg\Desktop\ReadFromXml 2.0\ReadFromXml\obj\Debug\ReadFromXml.pdb
+C:\Users\serg\Desktop\ReadFromXml 2.0\ReadFromXml\bin\Debug\ReadFromXml.exe
+C:\Users\serg\Desktop\ReadFromXml 2.0\ReadFromXml\bin\Debug\ReadFromXml.pdb
+C:\Users\serg\Desktop\ReadFromXml 2.0\ReadFromXml\bin\Debug\WebDriver.dll
+C:\Users\serg\Desktop\ReadFromXml 2.0\ReadFromXml\bin\Debug\WebDriver.Support.dll
+C:\Users\serg\Desktop\ReadFromXml 2.0\ReadFromXml\bin\Debug\WebDriver.xml
+C:\Users\serg\Desktop\ReadFromXml 2.0\ReadFromXml\bin\Debug\WebDriver.Support.xml
+C:\Users\GIGABYTE\Desktop\ReadFromXml 2.0\ReadFromXml\bin\Debug\ReadFromXml.exe.config
+C:\Users\GIGABYTE\Desktop\ReadFromXml 2.0\ReadFromXml\bin\Debug\ReadFromXml.exe
+C:\Users\GIGABYTE\Desktop\ReadFromXml 2.0\ReadFromXml\bin\Debug\ReadFromXml.pdb
+C:\Users\GIGABYTE\Desktop\ReadFromXml 2.0\ReadFromXml\bin\Debug\WebDriver.dll
+C:\Users\GIGABYTE\Desktop\ReadFromXml 2.0\ReadFromXml\bin\Debug\WebDriver.Support.dll
+C:\Users\GIGABYTE\Desktop\ReadFromXml 2.0\ReadFromXml\bin\Debug\WebDriver.xml
+C:\Users\GIGABYTE\Desktop\ReadFromXml 2.0\ReadFromXml\bin\Debug\WebDriver.Support.xml
+C:\Users\GIGABYTE\Desktop\ReadFromXml 2.0\ReadFromXml\obj\Debug\ReadFromXml.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\Desktop\ReadFromXml 2.0\ReadFromXml\obj\Debug\ReadFromXml.csproj.CopyComplete
+C:\Users\GIGABYTE\Desktop\ReadFromXml 2.0\ReadFromXml\obj\Debug\ReadFromXml.exe
+C:\Users\GIGABYTE\Desktop\ReadFromXml 2.0\ReadFromXml\obj\Debug\ReadFromXml.pdb
+C:\Users\GIGABYTE\Desktop\ReadFromXml 2.0\ReadFromXml\obj\Debug\ReadFromXml.csprojAssemblyReference.cache

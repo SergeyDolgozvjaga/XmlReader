@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Table>
+    <URL>
+        <Start_page>https://free74238.cpsite.ru/</Start_page>
+        <Home_page>https://free74238.cpsite.ru/index.php?route=common/home</Home_page>
+        <Login_page>https://free74238.cpsite.ru/index.php?route=account/login</Login_page>
+        <Account_page>https://free74238.cpsite.ru/index.php?route=account/account</Account_page>
+        <Account_sucess_page>https://free74238.cpsite.ru/index.php?route=account/success</Account_sucess_page>
+        <Account_logout_page>https://free74238.cpsite.ru/index.php?route=account/logout</Account_logout_page>
+        <Register_page>https://free74238.cpsite.ru/index.php?route=account/register</Register_page>
+        <Account_edit_page>https://free74238.cpsite.ru/index.php?route=account/edit</Account_edit_page>
+        <Password_edit_page>https://free74238.cpsite.ru/index.php?route=account/password</Password_edit_page>
+        <Address_book_page>https://free74238.cpsite.ru/index.php?route=account/address</Address_book_page>
+        <New_address_addressbook_page>https://free74238.cpsite.ru/index.php?route=account/address/add</New_address_addressbook_page>
+        <Forget_password_page>https://free74238.cpsite.ru/index.php?route=account/forgotten</Forget_password_page>      
+    </URL>
+</Table>
